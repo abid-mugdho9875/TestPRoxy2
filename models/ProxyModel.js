@@ -39,6 +39,9 @@ class ProxyModel {
         sort:param.sort,
         fromCurrency:param.fromCurrency,
         toCurrency:param.toCurrency,
+        size:param.size,
+        id:param.id,
+        number:param.number
 
       },
       headers: {
